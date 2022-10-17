@@ -1,0 +1,3 @@
+this is git 1st class
+git init
+git add
